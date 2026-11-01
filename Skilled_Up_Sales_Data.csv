@@ -1,0 +1,101 @@
+Order ID,Order Date,Customer Name,Branch,Category,Product,Quantity,Unit Price,Payment Method,Delivery Status
+ORD094,2025-05-21,Dayo Ajayi,Abuja,Electronics,Power Bank,2,15000,Cash,Delivered
+ORD065,2025-03-24,Dayo Ajayi,Lagos,Toiletries,Sponge,18,250,Transfer,Delivered
+ORD015,2025-04-11,Obinna Nwosu,Port Harcourt,Stationery,Notebook,13,300,Cash,Delivered
+ORD073,2025-01-18,Lanre Adeyemi,Lagos,Food,Milk,26,600,Cash,Pending
+ORD037,2025-06-16,Bayo Salami,Abuja,Stationery,Pen,1,100,Pay on Delivery,Delivered
+ORD088,2025-03-22,Dayo Ajayi,Kano,Toiletries,Shampoo,17,1800,Pay on Delivery,Delivered
+ORD043,2025-04-24,Fatima Bello,Abuja,Electronics,Torch,1,2000,Transfer,Pending
+ORD066,2025-03-27,Goodluck Peters,Lagos,Toiletries,Toothpaste,1,700,Pay on Delivery,Delivered
+ORD019,2025-04-05,Jumoke Alabi,Kano,Stationery,Stapler,18,1500,Card,Pending
+ORD026,2025-03-09,Hadiza Umar,Abuja,Food,Beans,24,1200,Cash,Delivered
+ORD062,2025-06-10,Lanre Adeyemi,Kano,Stationery,Pen,3,100,Pay on Delivery,Delivered
+ORD054,2025-01-23,Musa Danjuma,Kano,Toiletries,Soap,21,500,Cash,Cancelled
+ORD050,2025-04-09,Fatima Bello,Kano,Electronics,Power Bank,1,15000,,Delivered
+ORD090,2025-01-13,Obinna Nwosu,Abuja,Stationery,Pencil,16,50,Card,Pending
+ORD047,2025-02-05,Hadiza Umar,Abuja,Stationery,Pencil,29,50,Cash,Delivered
+ORD024,2025-03-30,Jumoke Alabi,Kano,Electronics,Phone Charger,3,3500,Pay on Delivery,Delivered
+ORD023,2025-06-07,Ada Okoro,Lagos,Stationery,Pen,12,100,Card,Cancelled
+ORD075,2025-05-03,Obinna Nwosu,Kano,Electronics,Power Bank,1,15000,Cash,Cancelled
+ORD045,2025-04-24,Fatima Bello,Lagos,Electronics,Torch,4,2000,Card,Delivered
+ORD053,2025-03-13,Ada Okoro,Abuja,Electronics,Earphones,1,4500,Pay on Delivery,Delivered
+ORD057,2025-02-21,Obinna Nwosu,Kano,Toiletries,Soap,6,500,Transfer,Pending
+ORD012,2025-01-24,Eniola Bakare,Port Harcourt,Electronics,Power Bank,1,15000,Cash,Delivered
+ORD028,2025-02-12,Fatima Bello,Abuja,Toiletries,Sponge,30,250,Transfer,Delivered
+ORD048,2025-02-11,Lanre Adeyemi,Port Harcourt,Electronics,Phone Charger,2,3500,Pay on Delivery,Delivered
+ORD008,2025-03-05,Musa Danjuma,Abuja,Electronics,Earphones,3,4500,Card,Delivered
+ORD009,2025-03-29,Lanre Adeyemi,Port Harcourt,Toiletries,Shampoo,29,1800,Transfer,Cancelled
+ORD097,2025-05-28,Fatima Bello,Abuja,Food,Milk,9,600,Card,Delivered
+ORD077,2025-01-16,Hadiza Umar,Kano,Stationery,Pen,16,100,Cash,Delivered
+ORD046,2025-03-19,Musa Danjuma,Lagos,Food,Bread,22,800,Card,Delivered
+ORD022,2025-01-29,Fatima Bello,Lagos,Stationery,Stapler,6,1500,Cash,Delivered
+ORD081,2025-05-15,Eniola Bakare,Kano,Food,Bread,24,800,Card,Cancelled
+ORD083,2025-05-06,Kelechi Obi,Port Harcourt,Food,Bread,1,800,,Delivered
+ORD084,2025-04-07,Fatima Bello,Lagos,Stationery,Stapler,12,1500,Transfer,Delivered
+ORD093,2025-05-08,Ireti Cole,Abuja,Food,Bread,17,800,Pay on Delivery,Delivered
+ORD004,2025-01-12,Ireti Cole,Abuja,Electronics,Torch,2,2000,Transfer,Delivered
+ORD049,2025-03-23,Bayo Salami,Kano,Electronics,Phone Charger,3,3500,Cash,Delivered
+ORD027,2025-05-20,Obinna Nwosu,Lagos,Toiletries,Toothpaste,23,700,Transfer,Delivered
+ORD002,2025-01-23,Goodluck Peters,Port Harcourt,Food,Bread,2,800,Cash,Delivered
+ORD041,2025-02-06,Hadiza Umar,Lagos,Food,Bread,6,800,Cash,Delivered
+ORD036,2025-06-18,Obinna Nwosu,Kano,Electronics,Phone Charger,4,3500,Card,Pending
+ORD044,2025-05-24,Obinna Nwosu,Abuja,Electronics,Phone Charger,3,3500,Pay on Delivery,Delivered
+ORD085,2025-04-12,Bayo Salami,Abuja,Toiletries,Sponge,27,250,Cash,Delivered
+ORD031,2025-03-31,Fatima Bello,Lagos,Stationery,Pencil,15,50,Card,Delivered
+ORD016,2025-02-05,Nkechi Okafor,Port Harcourt,Electronics,Power Bank,3,15000,Transfer,Delivered
+ORD042,2025-03-05,Dayo Ajayi,Kano,Electronics,Torch,1,2000,Cash,Delivered
+ORD021,2025-06-12,Goodluck Peters,Lagos,Electronics,Torch,4,2000,Card,Delivered
+ORD018,2025-05-31,Chinedu Eze,Kano,Stationery,Pen,16,100,Transfer,Delivered
+ORD070,2025-05-12,Kelechi Obi,Port Harcourt,Stationery,Pen,27,100,Card,Pending
+ORD092,2025-06-21,Goodluck Peters,Lagos,Toiletries,Shampoo,18,1800,Card,Delivered
+ORD035,2025-02-13,Chinedu Eze,Lagos,Electronics,Torch,2,2000,,Cancelled
+ORD052,2025-06-23,Nkechi Okafor,Kano,Stationery,Stapler,28,1500,,Delivered
+ORD072,2025-06-10,Ada Okoro,Abuja,Electronics,Power Bank,1,15000,Pay on Delivery,Delivered
+ORD086,2025-04-11,Goodluck Peters,Lagos,Toiletries,Sponge,3,250,Transfer,Delivered
+ORD087,2025-01-27,Ada Okoro,Kano,Toiletries,Soap,9,500,Card,Delivered
+ORD064,2025-02-10,Eniola Bakare,Port Harcourt,Food,Milk,6,600,Cash,Delivered
+ORD078,2025-04-29,Hadiza Umar,Port Harcourt,Electronics,Earphones,3,4500,Cash,Pending
+ORD025,2025-05-03,Hadiza Umar,Kano,Food,Milk,15,600,Cash,Delivered
+ORD013,2025-04-09,Obinna Nwosu,Kano,Toiletries,Shampoo,10,1800,Cash,Pending
+ORD038,2025-02-24,Eniola Bakare,Abuja,Stationery,Pen,9,100,Transfer,Delivered
+ORD034,2025-06-12,Fatima Bello,Lagos,Stationery,Stapler,26,1500,Pay on Delivery,Pending
+ORD079,2025-05-02,Ada Okoro,Kano,Stationery,Pencil,3,50,Pay on Delivery,Delivered
+ORD069,2025-03-25,Lanre Adeyemi,Port Harcourt,Stationery,Stapler,25,1500,Card,Delivered
+ORD007,2025-05-17,Goodluck Peters,Kano,Stationery,Stapler,22,1500,Pay on Delivery,Cancelled
+ORD015,2025-04-11,Obinna Nwosu,Port Harcourt,Stationery,Notebook,13,300,Cash,Delivered
+ORD041,2025-02-06,Hadiza Umar,Lagos,Food,Bread,6,800,Cash,Delivered
+ORD033,2025-06-19,Bayo Salami,Port Harcourt,Toiletries,Soap,27,500,Card,Pending
+ORD074,2025-03-09,Dayo Ajayi,Abuja,Toiletries,Soap,28,500,Card,Pending
+ORD039,2025-04-01,Obinna Nwosu,Port Harcourt,Electronics,Phone Charger,1,3500,Pay on Delivery,Pending
+ORD095,2025-03-03,Fatima Bello,Kano,Toiletries,Soap,11,500,Card,Delivered
+ORD030,2025-01-08,Musa Danjuma,Kano,Electronics,Earphones,1,4500,Pay on Delivery,Delivered
+ORD096,2025-05-15,Dayo Ajayi,Port Harcourt,Electronics,Power Bank,4,15000,Transfer,Delivered
+ORD089,2025-01-13,Obinna Nwosu,Port Harcourt,Electronics,Phone Charger,1,3500,Pay on Delivery,Cancelled
+ORD006,2025-05-21,Lanre Adeyemi,Lagos,Stationery,Pencil,4,50,Cash,Cancelled
+ORD071,2025-01-08,Ada Okoro,Abuja,Food,Bread,3,800,Transfer,Delivered
+ORD011,2025-05-23,Jumoke Alabi,Kano,Electronics,Torch,1,2000,Transfer,Delivered
+ORD059,2025-01-04,Ada Okoro,Abuja,Food,Beans,2,1200,Pay on Delivery,Delivered
+ORD082,2025-04-04,Dayo Ajayi,Port Harcourt,Toiletries,Soap,23,500,Pay on Delivery,Delivered
+ORD067,2025-01-02,Bayo Salami,Kano,Stationery,Notebook,17,300,Cash,Delivered
+ORD080,2025-02-23,Obinna Nwosu,Abuja,Electronics,Earphones,4,4500,Cash,Cancelled
+ORD020,2025-06-24,Musa Danjuma,Port Harcourt,Food,Milk,29,600,Pay on Delivery,Delivered
+ORD029,2025-04-13,Lanre Adeyemi,Abuja,Stationery,Notebook,27,300,Card,Pending
+ORD014,2025-01-30,Hadiza Umar,Lagos,Toiletries,Toothpaste,20,700,Card,Delivered
+ORD032,2025-03-28,Dayo Ajayi,Port Harcourt,Stationery,Stapler,7,1500,,Pending
+ORD072,2025-06-10,Ada Okoro,Abuja,Electronics,Power Bank,1,15000,Pay on Delivery,Delivered
+ORD060,2025-06-18,Hadiza Umar,Port Harcourt,Electronics,Torch,4,2000,Transfer,Delivered
+ORD068,2025-01-06,Eniola Bakare,Kano,Electronics,Torch,4,2000,Card,Delivered
+ORD051,2025-03-09,Eniola Bakare,Lagos,Stationery,Pen,3,100,Card,Delivered
+ORD010,2025-04-18,Chinedu Eze,Kano,Food,Rice,17,1500,Card,Pending
+ORD001,2025-06-16,Ada Okoro,Lagos,Toiletries,Toothpaste,13,700,Cash,Delivered
+ORD063,2025-04-08,Nkechi Okafor,Kano,Food,Rice,22,1500,Card,Delivered
+ORD076,2025-02-07,Fatima Bello,Kano,Stationery,Pen,20,100,Transfer,Cancelled
+ORD061,2025-06-12,Chinedu Eze,Port Harcourt,Stationery,Pencil,7,50,Transfer,Delivered
+ORD091,2025-03-18,Eniola Bakare,Kano,Electronics,Earphones,3,4500,Pay on Delivery,Delivered
+ORD055,2025-02-01,Hadiza Umar,Lagos,Stationery,Pen,9,100,Transfer,Pending
+ORD005,2025-03-20,Ireti Cole,Abuja,Stationery,Pen,19,100,Cash,Cancelled
+ORD017,2025-02-08,Bayo Salami,Abuja,Toiletries,Shampoo,8,1800,Card,Delivered
+ORD003,2025-05-25,Bayo Salami,Abuja,Food,Milk,2,600,Cash,Cancelled
+ORD040,2025-05-11,Ada Okoro,Port Harcourt,Stationery,Notebook,17,300,Card,Cancelled
+ORD056,2025-01-12,Ireti Cole,Abuja,Electronics,Earphones,2,4500,Cash,Delivered
+ORD058,2025-05-09,Kelechi Obi,Abuja,Stationery,Pencil,15,50,Transfer,Delivered
